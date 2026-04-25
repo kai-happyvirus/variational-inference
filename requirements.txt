@@ -7,3 +7,4 @@ ipykernel
 # For 12_tensorflow_probability_vi.ipynb
 tensorflow
 tensorflow-probability
+tf-keras
